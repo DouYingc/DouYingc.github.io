@@ -1,11 +1,12 @@
-http://douyingc.cn/about/index.html
+http://douyingc.cn/data/link.json
+http://douyingc.cn/messageboard/index.html
 http://douyingc.cn/link/index.html
+http://douyingc.cn/about/index.html
 http://douyingc.cn/categories/index.html
 http://douyingc.cn/archives/index.html
 http://douyingc.cn/tags/index.html
 http://douyingc.cn/2022/07/01/hello-world/
 http://douyingc.cn/data/valine.json
-http://douyingc.cn/data/link.json
 http://douyingc.cn/
 http://douyingc.cn/tags/JavaScript/
 http://douyingc.cn/categories/JavaScript/
