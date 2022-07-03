@@ -4,7 +4,6 @@ http://douyingc.cn/about/index.html
 http://douyingc.cn/categories/index.html
 http://douyingc.cn/archives/index.html
 http://douyingc.cn/tags/index.html
-http://douyingc.cn/2022/07/01/%E6%B5%8B%E8%AF%95/
 http://douyingc.cn/2022/07/01/hello-world/
 http://douyingc.cn/
 http://douyingc.cn/tags/JavaScript/

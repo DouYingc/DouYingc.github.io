@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/2022/07/01/%E6%B5%8B%E8%AF%95/</loc>
-    
-    <lastmod>2022-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://douyingc.cn/2022/07/01/hello-world/</loc>
     
     <lastmod>2022-07-01</lastmod>
@@ -76,7 +67,7 @@
 
   <url>
     <loc>http://douyingc.cn/</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,7 +75,7 @@
   
   <url>
     <loc>http://douyingc.cn/tags/JavaScript/</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -93,7 +84,7 @@
   
   <url>
     <loc>http://douyingc.cn/categories/JavaScript/</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
