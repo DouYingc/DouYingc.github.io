@@ -4182,21 +4182,6 @@ h1.page-title + .tag-cloud-list {
 #article-container iframe {
   margin: 0 0 20px;
 }
-#article-container kbd {
-  margin: 0 3px;
-  padding: 3px 5px;
-  border: 1px solid #b4b4b4;
-  border-radius: 3px;
-  background-color: #f8f8f8;
-  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.25), 0 2px 1px 0 rgba(255,255,255,0.6) inset;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.25), 0 2px 1px 0 rgba(255,255,255,0.6) inset;
-  color: #34495e;
-  white-space: nowrap;
-  font-weight: 600;
-  font-size: 0.9em;
-  font-family: Monaco, 'Ubuntu Mono', monospace;
-  line-height: 1em;
-}
 #article-container a.headerlink:after {
   float: right;
   color: var(--headline-presudo);
@@ -4353,11 +4338,6 @@ h1.page-title + .tag-cloud-list {
 #article-container > :last-child {
   margin-bottom: 0 !important;
 }
-#post .tag_share:after {
-  display: block;
-  clear: both;
-  content: '';
-}
 #post .tag_share .post-meta__tag-list {
   display: inline-block;
 }
@@ -4383,7 +4363,7 @@ h1.page-title + .tag-cloud-list {
 #post .tag_share .post_share {
   display: inline-block;
   float: right;
-  margin: 8px 0 0;
+  margin: 8px 0;
   width: fit-content;
 }
 #post .tag_share .post_share .social-share {
@@ -4411,6 +4391,7 @@ h1.page-title + .tag-cloud-list {
   background-color: #eff1f3;
 }
 #post .post-copyright:before {
+  background: var(--heo-post-blockquote-bg);
   position: absolute;
   right: -26px;
   top: -120px;
@@ -4439,14 +4420,14 @@ h1.page-title + .tag-cloud-list {
 #post .post-copyright .post-copyright-info a:hover {
   text-decoration: none;
 }
-#post .post-copyright .post-copyright-cc-info {
+#post .post-copyright-cc-info {
   color: #49b1f5;
 }
 #post .post-outdate-notice {
   position: relative;
   margin: 0 0 20px;
   padding: 0.5em 1.2em;
-  border-radius: 15px;
+  border-radius: 3px;
   background-color: #ffe6e6;
   color: #f66;
   padding: 0.5em 1em 0.5em 2.6em;
@@ -4465,7 +4446,7 @@ h1.page-title + .tag-cloud-list {
   transform: translateY(-50%);
 }
 #post .ads-wrap {
-  margin: 2rem 0;
+  margin: 40px 0;
 }
 .post-copyright-m-info .post-copyright-a,
 .post-copyright-m-info .post-copyright-c,
@@ -4495,45 +4476,9 @@ h1.page-title + .tag-cloud-list {
 #post .post-copyright__notice {
   font-size: 15px;
 }
-@-moz-keyframes flashlight {
-  from {
-    -webkit-box-shadow: 0 0 5px #1478d2;
-    box-shadow: 0 0 5px #1478d2;
-  }
-  to {
-    -webkit-box-shadow: 0 0 2px #1478d2;
-    box-shadow: 0 0 2px #1478d2;
-  }
-}
-@-webkit-keyframes flashlight {
-  from {
-    -webkit-box-shadow: 0 0 5px #1478d2;
-    box-shadow: 0 0 5px #1478d2;
-  }
-  to {
-    -webkit-box-shadow: 0 0 2px #1478d2;
-    box-shadow: 0 0 2px #1478d2;
-  }
-}
-@-o-keyframes flashlight {
-  from {
-    -webkit-box-shadow: 0 0 5px #1478d2;
-    box-shadow: 0 0 5px #1478d2;
-  }
-  to {
-    -webkit-box-shadow: 0 0 2px #1478d2;
-    box-shadow: 0 0 2px #1478d2;
-  }
-}
-@keyframes flashlight {
-  from {
-    -webkit-box-shadow: 0 0 5px #1478d2;
-    box-shadow: 0 0 5px #1478d2;
-  }
-  to {
-    -webkit-box-shadow: 0 0 2px #1478d2;
-    box-shadow: 0 0 2px #1478d2;
-  }
+#post .post-copyright {
+  -webkit-box-shadow: 2px 2px 5px;
+  box-shadow: 2px 2px 5px;
 }
 .relatedPosts {
   margin-top: 40px;
