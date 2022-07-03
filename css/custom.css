@@ -81,3 +81,9 @@ div#category{
           left: 0 !important;
           /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
         }
+
+        @font-face{
+          font-family:'webfont' ;  /* 字体名自定义即可 */
+          src:url('/fonts/fzfw.ttf'); /* 字体文件路径 */
+          font-display : swap;
+        }
