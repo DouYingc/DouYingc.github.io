@@ -6,6 +6,9 @@
 .card-widget{
   background:rgba(255, 255, 255, 0.8)!important;
 }
+.card-widget .history_slide{
+  background: none;
+}
 /* 文章页面正文背景 */
 div#post{
   background: rgba(255, 255, 255, 0.8);
