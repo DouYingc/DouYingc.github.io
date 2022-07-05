@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>刚接触计算机时学的一些小知识</title>
-      <link href="/2022/07/04/computer_knowledge/"/>
-      <url>/2022/07/04/computer_knowledge/</url>
-      
-        <content type="html"><![CDATA[<h1 id="博客的重要性"><a href="#博客的重要性" class="headerlink" title="博客的重要性"></a>博客的重要性</h1><ol><li><p><em><strong>总结和思考</strong></em></p></li><li><p><em><strong>提升文笔组织能力</strong></em></p></li><li><p><em><strong>提升学习总结能力(小章学完总结，大章学完总结，进行体系的思考规划)</strong></em></p></li><li><p><em><strong>提升逻辑思维能力（总分，体系要学什么，再进行细分）</strong></em></p></li></ol><h3 id="哪几种方式"><a href="#哪几种方式" class="headerlink" title="哪几种方式"></a>哪几种方式</h3><ol><li><em><strong>博客网</strong></em></li><li><em><strong>CSDN</strong></em></li><li><em><strong>自己搭建网站</strong></em></li></ol><h1 id="Markdown语法"><a href="#Markdown语法" class="headerlink" title="Markdown语法"></a>Markdown语法</h1><p><em><strong>标题：Ctrl+1-6</strong></em></p><p><em><strong>字体：</strong></em></p><ol><li><em><strong>斜体（Ctrl+I）</strong></em></li><li><em><strong>粗体（Ctrl+B）</strong></em></li></ol><p><em><strong>分割线：3个+，3个-，3个</strong></em></p><p><em><strong>代码：3个&#96;+Enter</strong></em></p><p><em><strong>链接：[链接文字]+(链接地址)或者&lt;链接地址&gt;</strong></em></p><h1 id="什么是计算机"><a href="#什么是计算机" class="headerlink" title="什么是计算机"></a>什么是计算机</h1><p><em><strong>能够按照程序运行，自动，高速处理海量数据的现代化智能电子设备，由硬件和软件组成</strong></em></p><h1 id="Windows常用快捷键"><a href="#Windows常用快捷键" class="headerlink" title="Windows常用快捷键"></a>Windows常用快捷键</h1><p><em><strong>Ctrl+A：全选</strong></em></p><p><em><strong>Ctrl+X：剪切</strong></em></p><p><em><strong>Ctrl+Z：撤销</strong></em></p><p><em><strong>Ctrl+S：保存</strong></em></p><p><em><strong>Alt+F4：关闭</strong></em></p><p><em><strong>Shift+Delete：永久删除</strong></em></p><p><em><strong>Ctrl+Shift+Esc：打开任务管理器</strong></em></p><h1 id="Dos命令"><a href="#Dos命令" class="headerlink" title="Dos命令"></a>Dos命令</h1><h2 id="打开cmd的方法"><a href="#打开cmd的方法" class="headerlink" title="打开cmd的方法"></a>打开cmd的方法</h2><ol><li><em><strong>开始+系统+命令提示符</strong></em></li><li><em><strong>Win键+R 输入cmd打开控制台</strong></em></li><li><em><strong>任意的文件夹下面，按住Shift+鼠标右键点击，打开命令行窗口</strong></em></li><li><em><strong>资源管理器的地址栏前加上cmd路径</strong></em></li></ol><p><em><strong>管理员方式运行：选择以管理员方式运行</strong></em></p><h1 id="常用的Dos命令"><a href="#常用的Dos命令" class="headerlink" title="常用的Dos命令"></a>常用的Dos命令</h1><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">#盘符切换   D:(英文)</span><br><span class="line">#查看当前目录下的所有文件 <span class="built_in">dir</span></span><br><span class="line">#切换目录 <span class="built_in">cd</span> (change directory)</span><br><span class="line">#返回上一级 <span class="built_in">cd</span>..</span><br><span class="line">#清理屏幕 <span class="built_in">cls</span> (clear screen)</span><br><span class="line">#退出终端 <span class="keyword">exit</span></span><br><span class="line">#查看电脑ip <span class="built_in">ipconfig</span></span><br><span class="line">#打开应用</span><br><span class="line"><span class="number">1</span>. calc 计算器</span><br><span class="line"><span class="number">2</span>. mspaint 画图</span><br><span class="line"><span class="number">3</span>. notepad 记事本</span><br><span class="line">#<span class="built_in">ping</span>命令</span><br><span class="line"><span class="built_in">ping</span> www.baidu.com</span><br><span class="line">#文件命令</span><br><span class="line">    <span class="built_in">md</span> 创建文件夹</span><br><span class="line">    <span class="built_in">rd</span> 移除文件</span><br><span class="line">    <span class="built_in">cd</span>&gt;文件名  创建文件</span><br><span class="line">    <span class="built_in">del</span>文件名 删除文件</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 小知识 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>JavaScript基础学习笔记</title>
       <link href="/2022/07/04/JavaScript%E5%9F%BA%E7%A1%80/"/>
       <url>/2022/07/04/JavaScript%E5%9F%BA%E7%A1%80/</url>
@@ -46,6 +21,31 @@
         <tags>
             
             <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>刚接触计算机时学的一些小知识</title>
+      <link href="/2022/07/04/computer_knowledge/"/>
+      <url>/2022/07/04/computer_knowledge/</url>
+      
+        <content type="html"><![CDATA[<h1 id="博客的重要性"><a href="#博客的重要性" class="headerlink" title="博客的重要性"></a>博客的重要性</h1><ol><li><p><em><strong>总结和思考</strong></em></p></li><li><p><em><strong>提升文笔组织能力</strong></em></p></li><li><p><em><strong>提升学习总结能力(小章学完总结，大章学完总结，进行体系的思考规划)</strong></em></p></li><li><p><em><strong>提升逻辑思维能力（总分，体系要学什么，再进行细分）</strong></em></p></li></ol><h3 id="哪几种方式"><a href="#哪几种方式" class="headerlink" title="哪几种方式"></a>哪几种方式</h3><ol><li><em><strong>博客网</strong></em></li><li><em><strong>CSDN</strong></em></li><li><em><strong>自己搭建网站</strong></em></li></ol><h1 id="Markdown语法"><a href="#Markdown语法" class="headerlink" title="Markdown语法"></a>Markdown语法</h1><p><em><strong>标题：Ctrl+1-6</strong></em></p><p><em><strong>字体：</strong></em></p><ol><li><em><strong>斜体（Ctrl+I）</strong></em></li><li><em><strong>粗体（Ctrl+B）</strong></em></li></ol><p><em><strong>分割线：3个+，3个-，3个</strong></em></p><p><em><strong>代码：3个&#96;+Enter</strong></em></p><p><em><strong>链接：[链接文字]+(链接地址)或者&lt;链接地址&gt;</strong></em></p><h1 id="什么是计算机"><a href="#什么是计算机" class="headerlink" title="什么是计算机"></a>什么是计算机</h1><p><em><strong>能够按照程序运行，自动，高速处理海量数据的现代化智能电子设备，由硬件和软件组成</strong></em></p><h1 id="Windows常用快捷键"><a href="#Windows常用快捷键" class="headerlink" title="Windows常用快捷键"></a>Windows常用快捷键</h1><p><em><strong>Ctrl+A：全选</strong></em></p><p><em><strong>Ctrl+X：剪切</strong></em></p><p><em><strong>Ctrl+Z：撤销</strong></em></p><p><em><strong>Ctrl+S：保存</strong></em></p><p><em><strong>Alt+F4：关闭</strong></em></p><p><em><strong>Shift+Delete：永久删除</strong></em></p><p><em><strong>Ctrl+Shift+Esc：打开任务管理器</strong></em></p><h1 id="Dos命令"><a href="#Dos命令" class="headerlink" title="Dos命令"></a>Dos命令</h1><h2 id="打开cmd的方法"><a href="#打开cmd的方法" class="headerlink" title="打开cmd的方法"></a>打开cmd的方法</h2><ol><li><em><strong>开始+系统+命令提示符</strong></em></li><li><em><strong>Win键+R 输入cmd打开控制台</strong></em></li><li><em><strong>任意的文件夹下面，按住Shift+鼠标右键点击，打开命令行窗口</strong></em></li><li><em><strong>资源管理器的地址栏前加上cmd路径</strong></em></li></ol><p><em><strong>管理员方式运行：选择以管理员方式运行</strong></em></p><h1 id="常用的Dos命令"><a href="#常用的Dos命令" class="headerlink" title="常用的Dos命令"></a>常用的Dos命令</h1><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">#盘符切换   D:(英文)</span><br><span class="line">#查看当前目录下的所有文件 <span class="built_in">dir</span></span><br><span class="line">#切换目录 <span class="built_in">cd</span> (change directory)</span><br><span class="line">#返回上一级 <span class="built_in">cd</span>..</span><br><span class="line">#清理屏幕 <span class="built_in">cls</span> (clear screen)</span><br><span class="line">#退出终端 <span class="keyword">exit</span></span><br><span class="line">#查看电脑ip <span class="built_in">ipconfig</span></span><br><span class="line">#打开应用</span><br><span class="line"><span class="number">1</span>. calc 计算器</span><br><span class="line"><span class="number">2</span>. mspaint 画图</span><br><span class="line"><span class="number">3</span>. notepad 记事本</span><br><span class="line">#<span class="built_in">ping</span>命令</span><br><span class="line"><span class="built_in">ping</span> www.baidu.com</span><br><span class="line">#文件命令</span><br><span class="line">    <span class="built_in">md</span> 创建文件夹</span><br><span class="line">    <span class="built_in">rd</span> 移除文件</span><br><span class="line">    <span class="built_in">cd</span>&gt;文件名  创建文件</span><br><span class="line">    <span class="built_in">del</span>文件名 删除文件</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小知识 </tag>
             
         </tags>
       
