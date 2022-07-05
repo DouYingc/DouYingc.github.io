@@ -1,8 +1,8 @@
 http://douyingc.cn/bb/index.html
 http://douyingc.cn/2022/07/04/JavaScript%E5%9F%BA%E7%A1%80/
 http://douyingc.cn/2022/07/04/computer_knowledge/
-http://douyingc.cn/2022/07/04/css/
 http://douyingc.cn/2022/07/04/html/
+http://douyingc.cn/2022/07/04/css/
 http://douyingc.cn/about/index.html
 http://douyingc.cn/messageboard/index.html
 http://douyingc.cn/archives/index.html
@@ -12,7 +12,7 @@ http://douyingc.cn/tags/index.html
 http://douyingc.cn/
 http://douyingc.cn/tags/JavaScript/
 http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/
-http://douyingc.cn/tags/css/
 http://douyingc.cn/tags/html/
+http://douyingc.cn/tags/css/
 http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/
 http://douyingc.cn/categories/%E5%AD%A6%E4%B9%A0/
