@@ -2,7 +2,7 @@
 #bbTimeList {
     width: 100%;
     opacity: 0.8;        /* 框不全 */
-    align-items: center; /* 图标不居中 */ /* 其它方法#bbTimeList加一个声明justify-content: space-between; */
+    justify-content: space-between; /* 图标不居中 */ /* 其它方法#bbTimeList加一个声明justify-content: space-between; align-items: center; */
   }
   #bbtalk {
     width: 100%;     /* 内容与图标不局中 */
