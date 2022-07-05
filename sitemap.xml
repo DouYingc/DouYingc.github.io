@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>http://douyingc.cn/2022/07/04/computer_knowledge/</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://douyingc.cn/2022/07/04/css/</loc>
     
     <lastmod>2022-07-03</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>http://douyingc.cn/2022/07/04/html/</loc>
-    
-    <lastmod>2022-07-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://douyingc.cn/2022/07/04/computer_knowledge/</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -117,6 +117,13 @@
   </url>
   
   <url>
+    <loc>http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://douyingc.cn/tags/css/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -125,13 +132,6 @@
   
   <url>
     <loc>http://douyingc.cn/tags/html/</loc>
-    <lastmod>2022-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
