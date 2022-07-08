@@ -1,4 +1,5 @@
 http://douyingc.cn/charts/index.html
+http://douyingc.cn/census/index.html
 http://douyingc.cn/bb/index.html
 http://douyingc.cn/2022/07/04/JavaScript%E5%9F%BA%E7%A1%80/
 http://douyingc.cn/2022/07/04/computer_knowledge/
