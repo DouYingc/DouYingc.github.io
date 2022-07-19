@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://douyingc.cn/2022/07/19/JavaScript%E9%AB%98%E7%BA%A7-%E6%B7%B1%E5%85%A5%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</loc>
+    
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://douyingc.cn/2022/07/10/JavaScript%E9%AB%98%E7%BA%A7-%E4%BD%9C%E7%94%A8%E5%9F%9F&%E8%A7%A3%E6%9E%84&%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0/</loc>
     
     <lastmod>2022-07-15</lastmod>
@@ -139,7 +148,7 @@
 
   <url>
     <loc>http://douyingc.cn/</loc>
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,28 +156,28 @@
   
   <url>
     <loc>http://douyingc.cn/tags/JavaScript/</loc>
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://douyingc.cn/tags/css/</loc>
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://douyingc.cn/tags/html/</loc>
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -177,14 +186,14 @@
   
   <url>
     <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://douyingc.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
