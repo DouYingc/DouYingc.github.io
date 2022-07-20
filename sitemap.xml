@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/posts/62774.html</loc>
+    <loc>http://douyingc.cn/posts/2979.html</loc>
     
     <lastmod>2022-07-15</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/posts/2979.html</loc>
+    <loc>http://douyingc.cn/posts/62774.html</loc>
     
     <lastmod>2022-07-15</lastmod>
     
@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/posts/24871.html</loc>
-    
-    <lastmod>2022-07-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://douyingc.cn/posts/42876.html</loc>
     
     <lastmod>2022-07-03</lastmod>
@@ -93,6 +84,15 @@
   
   <url>
     <loc>http://douyingc.cn/posts/50736.html</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://douyingc.cn/posts/24871.html</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -171,13 +171,6 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://douyingc.cn/tags/css/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,6 +179,13 @@
   
   <url>
     <loc>http://douyingc.cn/tags/html/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -201,7 +201,28 @@
   </url>
   
   <url>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/JavaScript/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Css/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://douyingc.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Html/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
