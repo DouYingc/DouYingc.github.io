@@ -300,13 +300,6 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://douyingc.cn/tags/Vue/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,7 +307,7 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/tags/jQuery/</loc>
+    <loc>http://douyingc.cn/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -334,24 +327,17 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://douyingc.cn/tags/jQuery/</loc>
+    <lastmod>2022-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/JavaScript/</loc>
-    <lastmod>2022-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Ajax/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -365,14 +351,21 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Node-js/</loc>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Ajax/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://douyingc.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/JavaScript/</loc>
+    <lastmod>2022-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Node-js/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -386,6 +379,13 @@
   </url>
   
   <url>
+    <loc>http://douyingc.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Css/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -393,14 +393,14 @@
   </url>
   
   <url>
-    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/JavaScript/jQuery/</loc>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Html/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/Html/</loc>
+    <loc>http://douyingc.cn/categories/%E5%89%8D%E7%AB%AF/JavaScript/jQuery/</loc>
     <lastmod>2022-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
