@@ -581,7 +581,7 @@ window.addEventListener('load',()=> {preloader.endLoading()})</script><div class
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'blog-2g5iv1oha4328782',
+      envId: 'http://121.4.70.146:8080/',
       region: '',
       onCommentLoaded: function () {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -593,7 +593,7 @@ window.addEventListener('load',()=> {preloader.endLoading()})</script><div class
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'blog-2g5iv1oha4328782',
+      envId: 'http://121.4.70.146:8080/',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -643,7 +643,7 @@ window.addEventListener('load',()=> {preloader.endLoading()})</script><div class
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'blog-2g5iv1oha4328782',
+        envId: 'http://121.4.70.146:8080/',
         region: '',
         pageSize: 6,
         includeReply: true

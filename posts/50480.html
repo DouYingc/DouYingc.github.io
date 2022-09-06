@@ -357,7 +357,7 @@
 
 <h3 id="第三方的中间件"><a href="#第三方的中间件" class="headerlink" title="第三方的中间件"></a>第三方的中间件</h3><p>非 Express 官方内置的，而是由第三方开发出来的中间件，叫做第三方中间件。在项目中，大家可以按需下载并配置第三方中间件，从而提高项目的开发效率</p>
 <ul>
-<li><p>例如：在<a href="mailto:&#101;&#120;&#x70;&#114;&#101;&#x73;&#115;&#x40;&#52;&#46;&#49;&#54;&#x2e;&#x30;">&#101;&#120;&#x70;&#114;&#101;&#x73;&#115;&#x40;&#52;&#46;&#49;&#54;&#x2e;&#x30;</a>之前的版本中，经常使用body-parser这个第三方中间件，来解析请求体数据。使用步骤如下：</p>
+<li><p>例如：在<a href="mailto:&#101;&#120;&#112;&#114;&#x65;&#115;&#115;&#64;&#x34;&#46;&#49;&#54;&#x2e;&#48;">&#101;&#120;&#112;&#114;&#x65;&#115;&#115;&#64;&#x34;&#46;&#49;&#54;&#x2e;&#48;</a>之前的版本中，经常使用body-parser这个第三方中间件，来解析请求体数据。使用步骤如下：</p>
 <p>①运行 npm install body-parser安装中间件</p>
 <p>②使用 require 导入中间件</p>
 <p>③调用 app.use()注册并使用中间件</p>
@@ -522,7 +522,7 @@ window.addEventListener('load',()=> {preloader.endLoading()})</script><div class
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'blog-2g5iv1oha4328782',
+      envId: 'http://121.4.70.146:8080/',
       region: '',
       onCommentLoaded: function () {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -534,7 +534,7 @@ window.addEventListener('load',()=> {preloader.endLoading()})</script><div class
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'blog-2g5iv1oha4328782',
+      envId: 'http://121.4.70.146:8080/',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -584,7 +584,7 @@ window.addEventListener('load',()=> {preloader.endLoading()})</script><div class
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'blog-2g5iv1oha4328782',
+        envId: 'http://121.4.70.146:8080/',
         region: '',
         pageSize: 6,
         includeReply: true
